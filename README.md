@@ -2,7 +2,7 @@
 
 ###🎓 **BCom Accounting Graduate | Data Analytics Student | Aspiring Data Analyst** 
 👋 Welcome to My GitHub Profile!
-Hi, I'm Katlego Maureen Ngwenya, a Data Science enthusiast passionate about turning raw data into meaningful insights.
+Hi, I'm Katlego Maureen Ngwenya, a Data analyst enthusiast passionate about turning raw data into meaningful insights.
 
 With a background in Accounting, I’m expanding my skills in data analysis, exploring trends, solving problems, and using data to support smarter financial and business decisions.
 
